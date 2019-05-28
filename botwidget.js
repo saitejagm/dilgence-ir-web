@@ -1,6 +1,8 @@
 var elem;
-var accessToken = "8c480461f14348ec8c8819c5509b174c";
+//var accessToken = "8c480461f14348ec8c8819c5509b174c";
 var baseUrl = "https://api.api.ai/v1/";
+var accessToken = "f452880bf356427b88b9f7b67c765525";
+//var baseUrl = "https://bot.dialogflow.com/";
 var global_message = ""
 var head;
 
